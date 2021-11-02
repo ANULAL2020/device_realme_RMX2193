@@ -14,10 +14,10 @@ Storage | 64/128 GB (eMMC type)
 MicroSD | Up to 512 GB 
 Battery | Li-ion 6000 mAh, non-removable
 Dimensions | 164.4 x 75 x 9 mm (6.47 x 2.95 x 0.35 in)
-Display | 720 x 1560 pixels, 6.50" IPS LCD, 20:9 ratio (~270 ppi density)
-Rear Camera  | Triple : 48 MP; 8MP(depth); 2MP(Macro- only Narzo 10A and C3 Global)
+Display | 720 x 1600 pixels, 6.50" IPS LCD, 20:9 ratio (~270 ppi density)
+Rear Camera  | Triple : 48 MP; 8MP(Ultra Wide); 2MP(Macro- only Narzo 10A ,20 and C3 Global)
 Front Camera | Single: 8 MP
-Release Month | 2020, February 14 | 2020, May 22 
+Release Month | 2020, SEPTEMBER 21
 
 
 ![shopping](https://user-images.githubusercontent.com/64322146/139810710-9dd3573a-ff71-4d24-8c87-40a96d9da917.jpg)
