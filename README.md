@@ -1,3 +1,4 @@
+![shopping](https://user-images.githubusercontent.com/64322146/139810710-9dd3573a-ff71-4d24-8c87-40a96d9da917.jpg)
 Realme 7I(EU)/Realme Narzo 20 Device Tree - RMX2193/RMX2191
 ================================================================
 
